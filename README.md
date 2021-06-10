@@ -1,0 +1,2 @@
+- 👋 Hi, I’m abhinandan kumar
+- 👀 I’m interested in machine learning and AI

@@ -1,2 +1,2 @@
 - 👋 Hi, I’m abhinandan kumar
-- 👀 I’m interested in machine learning and AI
+- 👀 I’m interested in web-development, machine learning and AI

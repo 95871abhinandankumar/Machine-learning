@@ -1,3 +1,5 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=95871abhinandankumar&theme=dark)](https://git.io/streak-stats)
+
 - 🔭 I’m currently working on **IIT Bombay Projects**
 - 👯 I’m looking to collaborate on **Backend Development**
 - Skills <br>

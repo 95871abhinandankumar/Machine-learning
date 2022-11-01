@@ -1,5 +1,4 @@
-- 🔭 I’m currently working on **Personal Projects**
-- 🌱 I’m currently learning **Django** and **Node.js**
+- 🔭 I’m currently working on **IIT Bombay Projects**
 - 👯 I’m looking to collaborate on **Backend Development**
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
@@ -10,7 +9,7 @@
   [<img alt="Leetcode" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" height="25"/>](https://leetcode.com/abhinandank626/) &nbsp;
   [<img alt="GeeksforGeeks" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" height="25"/>](https://auth.geeksforgeeks.org/user/abhinandank626/practice) &nbsp;
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Anime ga daisuki
+- ⚡ Fun fact: Movie, Sports like vollyball, table tennis, badminton, cricket e.t.c
 
 ![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=95871abhinandankumar&count_private=true&show_icons=true&theme=dark)
 ![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=95871abhinandankumar&theme=dark)

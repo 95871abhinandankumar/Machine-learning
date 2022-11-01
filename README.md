@@ -12,4 +12,5 @@
 - ⚡ Fun fact: Movie, Sports like vollyball, table tennis, badminton, cricket e.t.c
 
 ![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=95871abhinandankumar&count_private=true&show_icons=true&theme=dark)
-![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=95871abhinandankumar&theme=dark)
+<!-- ![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=95871abhinandankumar&theme=dark) -->
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=95871abhinandankumar&theme=dark)

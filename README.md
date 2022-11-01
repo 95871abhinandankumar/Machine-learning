@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on **IIT Bombay Projects**
 - 👯 I’m looking to collaborate on **Backend Development**
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,py,django,sql,mysql,eclipse,git,linux,vim)](https://skillicons.dev)
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: &nbsp;
